@@ -1,4 +1,3 @@
-# first-app-project
 # Canvasser Application
 The goal of this project is to create an online canvasser list. Where an Admin has an ability of creating a list and the person door knocking is updating a database. Currently this process is being done manually, which waste a vast amount of paper and takes time from the admin since they have to update a list manually.
 
